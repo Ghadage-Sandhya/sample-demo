@@ -1,0 +1,128 @@
+$bgColor: #eaeaea;
+$bgPadding: 7px;
+$fontSizeAvailable: 12px;
+$fontSizeContactNumber: 14px;
+$callBackBorderLeft: 1px solid black;
+$callBackBorderRight: 1px solid black;
+$callBackPaddingLeft: 20px;
+$callBackPaddingRight: 20px;
+$textDecoration: none;
+$callBackFontColor: black;
+$marginLeft: 10px+10px;
+$outline:none;
+$border:none;
+$bgWhiteColor:white;
+$dropdown:inline-block;
+$btn:none;
+$box_Shadow:none;
+
+.container-fluid{
+  margin-left: 33px;
+}
+
+.bgLightGray {
+  background-color: $bgColor;
+  padding: $bgPadding;
+}
+
+.contactNumber {
+  font-size: $fontSizeContactNumber;
+}
+
+.available {
+  font-size: $fontSizeAvailable;
+}
+
+.callBack {
+  font-size: $fontSizeContactNumber;
+  border-left: $callBackBorderLeft;
+  border-right: $callBackBorderRight;
+  padding-left: $callBackPaddingLeft;
+  padding-right: $callBackPaddingRight;
+}
+
+.callBackLink {
+  text-decoration: $textDecoration;
+  color: $callBackFontColor;
+}
+
+.liveChat {
+  margin-left: $marginLeft;
+  outline: $outline;
+  border: $border;
+  background-color: $bgWhiteColor;
+}
+
+.dropdown{
+  display: $dropdown;
+  margin-left: 35px;
+}
+
+.btn:focus{
+  outline: $btn;
+  border: $border;
+  box-shadow: $box_Shadow;
+}
+
+.dropdown:hover .dropdown-menu{
+  display: block;
+}
+
+.dropdown-item{
+  animation: example 2s;
+}
+
+#dropdown-menu-one{
+  padding-left: 20px;
+  min-width: 15rem;
+  border: none;
+}
+
+.investorRelations{
+  text-decoration: none;
+  color: #000;
+}
+
+.btn-secondary{
+  background: #014579;
+}
+
+.btn-secondary:hover{
+  background: #014579;
+}
+
+#dropdownBtn{
+  float: right;
+}
+
+.navbar-expand-lg{
+  background-color: #d55a27;
+}
+
+.nav-item{
+  color: #fff;
+}
+
+.ngFaintOrange{
+  background-color: #fedcd2;
+  height: 250px;
+}
+
+.headline{
+  padding: 56px;
+  padding-right: 117px;
+}
+
+.bg-fadegray{
+  background-color: #f8f6f6;
+}
+
+.white-box{
+  background-color: #fff;
+}
+
+.whyChoose{
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}

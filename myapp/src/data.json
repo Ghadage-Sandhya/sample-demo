@@ -1,0 +1,23 @@
+[
+    {
+        "id":0,
+        "title1":"Dependable",
+        "subTitle1":"You can rely on us at all times.",
+        "abstract1":"Be it during large calamities like Odisha cyclone or minor accidents like a broken tail-light, we have always stood by our customers in time of need. We have repeatedly introduced industry-leading practices for nearly two decades . So, in times of trouble, be assured, we’ve got your back. We stand by our motto: “Nibhaye Vaade”.",
+        "img1":"./images/dependable.png"
+    },
+    {
+        "id":1,
+        "title2":"Approachable",
+        "subTitle2":"You've got a friend in us.",
+        "abstract2":"Value of insurance is realised when you make a claim. In your hour of need, be it a major surgery or a broken car, you need more than just claim support. Our team comprises highly trained professionals and functional experts to guide you through the right course of action during emergencies. So, don’t hesitate. Any questions you have or any help you need - just reach out to us.",
+        "img2":"./images/approachable.png"
+    },
+    {
+        "id":2,
+        "title3":"Transparent",
+        "subTitle3":"We give you the power of clarity.",
+        "abstract3":"Insurance products are designed and priced through complicated mathematical models. But we strive to explain the extent of coverage to you in a simple manner. From policy issuance to claims, you can count on us for keeping it simple. We have always gone the extra mile to make things clear, right from pre-sales to claims support.",
+        "img3":"./images/transparent.png"
+    }
+]
